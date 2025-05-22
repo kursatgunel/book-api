@@ -3,8 +3,7 @@ Java Spring Boot ile kitapların eklenip, güncellenip, silinebileceği bir API 
 
 
 
-Spring Boot Starter Web,
-Spring Boot Starter Data JPA ,
+Spring Web,
+Spring Data JPA,
 Lombok,
-Jackson,
-Spring Boot Starter Test
+Spring Boot Test
